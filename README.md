@@ -8,3 +8,7 @@ Detail of the work can be found here:
 
 <img width="595" alt="image" src="https://github.com/sruap1214/SMM_NLP/assets/36512012/e85b1251-4f10-45bc-9404-096730b5126b">
 
+## References
+If you find the code useful and would like to cite it, please reference to the following paper: XXXXXXXXXX
+
+link: XXXXXXXXX
